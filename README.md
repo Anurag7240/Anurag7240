@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anurag7240
+- 👋 Hi, I’m @Anurag Singh7240
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning css+ ,java html
 - 💞️ I’m looking to collaborate on github 
